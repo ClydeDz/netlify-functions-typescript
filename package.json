@@ -1,0 +1,15 @@
+{
+    "name": "netlify-functions-slack-demo",
+    "description": "TypeScript template for Netlify Functions",
+    "version": "0.0.1",
+    "scripts": {
+        "build": "tsc"
+    },
+    "author": {
+        "name": "Clyde D'Souza"
+    },
+    "devDependencies": {
+        "@types/aws-lambda": "^8.10.75",
+        "typescript": "^4.2.4"
+    }
+}
